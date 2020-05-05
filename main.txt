@@ -1640,7 +1640,6 @@ Interpret@解析
 Long@长整型
 Mash-up pack@混搭包
 Mob cap@生物容量
-Mod@Mod
 Modify@修改
 Module@模块
 NBT@NBT
