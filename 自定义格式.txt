@@ -1,2 +1,9 @@
 b@explain<br>newline
 mod@模组
+Chest Transporter@搬箱器
+redstone@红石
+Redstone Ore@红石矿石
+Redstone Comparator@红石比较器
+Redstone Repeater@红石中继器
+mob@生物
+spawn@生成
