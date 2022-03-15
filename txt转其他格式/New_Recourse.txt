@@ -148,7 +148,6 @@ Chiseled Stone Bricks	錾制石砖
 Chorus Flower	紫颂花
 Chorus Plant	紫颂植株
 Clay	黏土块
-图标	英文名称	中文名称
 Coal Ore	煤矿石
 Coarse Dirt	砂土
 Cobbled Deepslate	深板岩圆石
