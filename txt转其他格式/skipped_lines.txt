@@ -1,1 +1,10 @@
+Tnt	TNT
 Mask	Mask
+Npc	NPC
+Warden	Warden
+Pre-classic/Classic/
+Official release/
+材料（其他义项）
+Disambig
+Job site
+//TO DO 修正中英顺序

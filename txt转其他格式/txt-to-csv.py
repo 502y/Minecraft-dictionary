@@ -17,8 +17,9 @@ curLine = ''
 cnList = []
 enList = []
 
-for lines in nameFile:                      # 读取行
-    curLine = nameFile.readline()
+lines = nameFile.readlines()
+
+for curLine in lines:                      # 读取行
 
     if not curLine:                         # 若为空行，则直接跳转到下一行
         continue
